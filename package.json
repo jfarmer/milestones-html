@@ -9,7 +9,6 @@
     "eslint-plugin-import": "^2.25.4",
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^6.0.0",
-    "htmlhint": "^1.1.2",
     "jsdoc": "^3.6.10"
   },
   "scripts": {
